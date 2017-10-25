@@ -1,4 +1,4 @@
-# SentimentAnalsysUBosque
+# SentimentAnalysisUBosque
 Tesis de pregrado de ingeniería de sistemas
 
 Para clonar dar click en 'clone or download' y copiar la url, luego en una terminal se hace:
